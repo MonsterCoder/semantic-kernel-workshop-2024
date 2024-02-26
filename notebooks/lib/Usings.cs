@@ -13,3 +13,4 @@ using InteractiveKernel = Microsoft.DotNet.Interactive.Kernel;
 using System.ComponentModel;
 using Microsoft.Extensions.DependencyInjection;
 using System.Collections;
+using Microsoft.SemanticKernel.Memory;
